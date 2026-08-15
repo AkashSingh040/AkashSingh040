@@ -4,11 +4,11 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akash-singh040/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AkashSingh040"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/AkashSinghkmps1158/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:ak96908266@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>
 
 ## 🌌 About Me
