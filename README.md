@@ -15,7 +15,7 @@
 
 I’m a Computer Science undergraduate focused on building scalable backend systems, AI-powered applications, and intelligent systems. I thrive at the intersection of **Backend Engineering, AI/GenAI, and System Design**, continually honing my problem-solving skills through competitive programming.
 
-- 🎓 **Education:** B.Tech Computer Science & Engineering @ **NIT Srinagar** (9.06 CGPA)
+- 🎓 **Education:** B.Tech Computer Science & Engineering @ **NIT Srinagar** (9.07 CGPA)
 - 🔬 **Research:** AI/ML Research Intern at **IIT BHU**, working on Neural Architecture Search
 - 🏆 **Achievements:** 4th in India (Proggy Buggy International) | 3rd place in IUST Hackathon 2025 | 1650+ LeetCode Contest Rating
 
